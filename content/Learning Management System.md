@@ -1,0 +1,1 @@
+A learning management System is basically designing a process where any person new to the organisation can get themselves educated in a shortest possible time. It saves employees from researching and creating their own systems, and getting them productive on the job to be done asap. 

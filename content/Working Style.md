@@ -17,3 +17,5 @@ Also, it would help if you read up on Clayton Christenson's "Job to be done" fra
 
 ## I don't sell my time (as I am not a blue-collar worker.)  
 I am very lazy, I don't sell my time by the hour, and I try to sell my experience. When I say I am selling my (28 years of) experience, it is a condensed time and it is a better deal for me and you. It is effortless for me and you also, benefit from the experience. I find this is the most difficult concept for people to understand as people who sell time have become more expensive than people who sell their experience, this means that clients end up wanting to buy time from people who sell experience. I should have become a plumber or a carpenter, I know. 
+
+> Ok, Manoj, cut the crap! Tell me [[what skills do you have]]. 
