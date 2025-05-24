@@ -5,3 +5,4 @@ I read your ad copy, newsletter copy and give you a run down on why you missed s
 I advise you to steel man your argument and find out holes in your arguments. 
 I tell you that your communication is too elitist if your protocol softare aims want to democratise information. 
 This all comes from experience. If you feel you are communications needs another perspective, dial M for Manoj
+Read about my [[Working Style]] here
