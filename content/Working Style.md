@@ -1,0 +1,1 @@
+I like to work asynchronously and always prefer to use the OKR  (Objective and Key Results) framework.
