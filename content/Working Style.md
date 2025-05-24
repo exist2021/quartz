@@ -9,8 +9,8 @@ I once had a teammate who would chat too much, his only intention was to troll m
 ## OKR Framework is essential for all actions
 If you have never heard about the OKR framework made popular by Andy Grove of Intel, I suggest you at least have a rudimentary idea of what it is and should be willing to use it. I  always prefer to use the OKR  (Objective and Key Results) framework, which is the framework used by Intel and Google. It makes complex things simple, otherwise you might end up chasing a lot of actions and spreading yourself too thin. 
 
-## Lead and Lack Measures. 
-I need my dopamine hits and lead measures to demotivate everyone. So you should know what is are these two terms. 
+## Lead and Lag Measures. 
+I need my dopamine hits and lead measures tend to demotivate everyone. So you should know what is are these two terms. 
 
 ## Jobs to be done framework
 Also, it would help if you read up on Clayton Christenson's "Job to be done" framework. It is extremely counter-intuitive but it will help you sell your product or service better. It will take you deep into the mind of your prospective buyer. 
