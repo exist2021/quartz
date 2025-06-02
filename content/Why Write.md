@@ -22,7 +22,7 @@ Written content also enables you to reach a new audience. We generally communica
 
 In addition, the written word shapes society. The intellectual is feared by the status quo! It is said that the French Revolution was a fight of the intellectuals for vanity rather than a fight for liberty. If Marx had not written those words while fainting in the library, there would be no communism. The Communist Russians and Hitler’s Nazis both gave intellectuals equal status to those of the ruling members and thus bribed the intellectual class into silence. So it is impertinent that our intellectuals don’t get bribed into silence which will end up in mass sufferings of the commons.
 
-### Responsibility of Writing
+### Upholding Values and Preventing Downward Spiral of Culture
 
 In contrast to low-cost discussions that occur in national media or under the guise of podcasts, written content places the responsibility on the publication or the writer.
 
