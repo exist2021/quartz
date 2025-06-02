@@ -1,5 +1,3 @@
-# Why Write?
-
 Who has time to read nowadays in the age of shortening attention spans? Yes, it is true; few people have developed the muscles to read long-form content. But we want to reach out to those few people who still read plus we try to make readers of those addicted to social media.
 
 Reading has changed my life for sure. In college, I battled low confidence and struggled with alcohol and smoking addiction. This was when I discovered books by Swami Vivekananda. I relished several volumes during one summer. It gave me the confidence to overcome my addiction, which was a response to my low self-esteem. I believe a video or a series of videos on YouTube wouldn't have made such radical changes in me as those volumes of books did. The level of intimacy with a book is such that you are most receptive and attentive to imbibing the ideas and virtues of the author.
