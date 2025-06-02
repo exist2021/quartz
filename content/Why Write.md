@@ -6,9 +6,11 @@ Reading has changed my life for sure. In college, I battled low confidence and s
 
 # Here are my reasons why the written word is the best form of media
 
-## Easy Searchability
+## You Can SEARCH Text Unlike Audio and Video
 
-Firstly, the written word allows for easy searchability. Searching within text is simple, unlike trying to find a specific moment in a YouTube video or an audio file. If you want to search inside a YouTube video or an audio lecture, you will need to use AI tools to transcribe the content into text. So why not have a text file in the first place?
+Firstly, the written word allows for easy searchability. Searching within text is simple, unlike trying to find a specific moment in a YouTube video or an audio file. 
+
+If you want to search inside a YouTube video or an audio lecture, you will need to use AI tools (which could be paid tools) to transcribe the content into text. So why not have a text file in the first place?
 
 ## Focused Attention
 
