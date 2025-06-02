@@ -4,7 +4,7 @@ Reading has changed my life for sure. In college, I battled low confidence and s
 
 > In this essay, I urge good writers or those who love writing to start or keep writing.
 
-# Here are my reasons why the written word is the best form of media to create lasting change in readers.
+# Here are my reasons why the written word is the best form of media
 
 ## Easy Searchability
 
