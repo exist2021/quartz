@@ -26,7 +26,7 @@ In addition, the written word shapes society. The intellectual is feared by the 
 
 ### Upholding Values and Preventing Downward Spiral of Culture
 
-In contrast to low-cost discussions that occur in national media or under the guise of podcasts, written content places the responsibility on the publication or the writer.
+In contrast to low-grade discussions that occur in national media or under the guise of podcasts, written content places the responsibility on the publication or the writer.
 
 > Writing is being responsible, This fact can make us uneasy about putting anything on paper, leading to the avoidance of writing. However, in the process, we create low-quality content assets without nuance or deeper thinking thus downgrading our culture.
 
@@ -36,11 +36,11 @@ Furthermore, written content serves as the building block for all media creation
 
 ## Better Personal Knowledge Management System
 
-Another compelling reason to favour the written word is better recollection. Due to the ubiquitous nature of video content and less rigid copyright rules, videos on platforms like YouTube often resemble each other. I can’t recall the exact YouTube video that inspired me, but I remember where I read a particular idea. For instance, I frequently forward an article by Sajith Pai on product-market fit as one of the best pieces of content. Text files can be bookmarked or saved, making them a better medium for personal knowledge management. The best knowledge management systems should make input and retrieval of information as efficient as possible.
+Another compelling reason to favour the written word is better recollection. Due to the ubiquitous nature of video content and less rigid copyright rules, videos on platforms like YouTube often resemble each other. I can’t recall the exact YouTube video that inspired me, but I remember where I read a particular idea. For instance, I frequently forward an [article by Sajith Pai on product-market fit](https://sajithpai.com/the-busy-founders-guide-to-pmf/) as one of the best pieces of content. Text files can be bookmarked or saved, making them a better medium for personal knowledge management. The best knowledge management systems should make input and retrieval of information as efficient as possible.
 
 ## Minimal Resource Requirement
 
-Lastly, written content requires minimal resources. At the very least, it needs the least material resources, though the cognitive costs are the highest. You don’t need editing software or even a laptop; pen and paper will do.
+Lastly, written content requires minimal resources, it needs the least material resources. You don’t need editing software or even a laptop; pen and paper will suffice.
 
 ## Conclusion
 
