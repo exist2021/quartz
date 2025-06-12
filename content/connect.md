@@ -1,1 +1,1 @@
-The best way to connect with me is to send a whatsapp as I don't pick calls from strangers. My number is 92860 39114. You can also email me on manoj(at)mnaojnayak.com
+The best way to connect with me is to send a [WhatsApp](https://wa.me/919286039114)] as I don't pick calls from strangers OR I am very much an email person. [Click here to email](mailto:manoj@manojnayak.com)
