@@ -1,6 +1,6 @@
 # I am Manoj Nayak
 
-Hello, I am a communication specialist and this is my digital garden.
+Hello, I am a communication specialist and this is my [[digital garden]].
 
 ## What is a "Communication Specialist"?
 
@@ -11,9 +11,7 @@ Sometimes, the organisation's ethos is to use logic in all communications. So a 
 I read all your communication copy, which includes your ad copies, social media content, CRM email templates, newsletter copy or your printed materials like posters, banners, pamphlets, and brochures and analyze and give you a rundown on why you missed some important points, which makes your argument weak. I give you recommendations on how to steelman your arguments. I tell you that your communication is too elitist if your protocol software aims to democratise information.
 ## Dial M
 
-This all comes from experience. If you feel you are communications need another perspective, dial M for Manoj.
-
-I am choosy about what I work on and I let you be choosy about paying me, If you feel could come to terms with my  [[Working Style]]  then let’s [[connect]].
+This all comes from experience. If you feel you are communications need another perspective, dial M for Manoj. I am choosy about what I work on and I let you be choosy about paying me, If you feel could come to terms with my  [[Working Style]]  then let’s [[connect]].
 
 ## Still not convinced if you need a "Communication Specialist"?
 
