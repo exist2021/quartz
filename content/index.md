@@ -1,4 +1,7 @@
-# I am Manoj Nayak
+---
+title: I am Manoj Nayak
+---
+
 Hello, I am a communication specialist and this is my [[digital garden]]. 
 ## What does a "Communication Specialist" do? It seems like one of those fancy buzzwords. 
 Sometimes, the organisation's ethos is to use logic in all its communications. So a guy like me comes in and tells them, "Hey, logic can give you linear returns, but if you want exponential returns, you have to add emotion to all your communications." 
