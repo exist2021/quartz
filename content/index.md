@@ -2,7 +2,7 @@
 title: I am Manoj Nayak
 ---
 
-![Manoj Nayak](https://i.postimg.cc/k45NDNMJ/Whatsapp.jpg){ width="200" }
+![Manoj Nayak](https://i.postimg.cc/K8n6xT8p/AAYQAQSOAAg-AAQAAAAAAAB-zr-MZEDXI2-T62-PSu-T6kp-B6qg.png){ width="200" }
 
 Hello, I am a communication specialist and this is my [[digital garden]].
 
